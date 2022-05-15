@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{14B30315-6B92-4F14-BA40-BB39FA97E5E2}|Default">
+  <MonoDevelop.Ide.ItemProperties.RestAPINetMongoDB PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RestAPINetMongoDB/Controllers/MongoDBOpsController.cs">
+    <Files>
+      <File FileName="RestAPINetMongoDB/Startup.cs" Line="22" Column="10" />
+      <File FileName="RestAPINetMongoDB/Controllers/MongoDBOpsController.cs" Line="30" Column="1" />
+      <File FileName="RestAPINetMongoDB/Program.cs" Line="1" Column="1" />
+      <File FileName="RestAPINetMongoDB/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="RestAPINetMongoDB/appsettings.json" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RestAPINetMongoDB" expanded="True">
+            <Node name="RestAPINetMongoDB" expanded="True">
+              <Node name="Configuration" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="MongoDBOpsController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
