@@ -2,11 +2,8 @@
   <MonoDevelop.Ide.ItemProperties.RestAPINetMongoDB PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="RestAPINetMongoDB/Controllers/MongoDBOpsController.cs">
     <Files>
-      <File FileName="RestAPINetMongoDB/Startup.cs" Line="22" Column="10" />
-      <File FileName="RestAPINetMongoDB/Controllers/MongoDBOpsController.cs" Line="30" Column="1" />
-      <File FileName="RestAPINetMongoDB/Program.cs" Line="1" Column="1" />
-      <File FileName="RestAPINetMongoDB/Properties/launchSettings.json" Line="1" Column="1" />
-      <File FileName="RestAPINetMongoDB/appsettings.json" Line="11" Column="1" />
+      <File FileName="RestAPINetMongoDB/Startup.cs" Line="35" Column="22" />
+      <File FileName="RestAPINetMongoDB/Controllers/MongoDBOpsController.cs" Line="167" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,6 +14,8 @@
               <Node name="Controllers" expanded="True">
                 <Node name="MongoDBOpsController.cs" selected="True" />
               </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -26,7 +25,12 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/artturobld/Projects/RestAPINetMongoDB/RestAPINetMongoDB/Controllers/MongoDBOpsController.cs" relfile="RestAPINetMongoDB/Controllers/MongoDBOpsController.cs" line="74" column="1" />
+      <Breakpoint file="/Users/artturobld/Projects/RestAPINetMongoDB/RestAPINetMongoDB/Controllers/MongoDBOpsController.cs" relfile="RestAPINetMongoDB/Controllers/MongoDBOpsController.cs" line="97" column="1" />
+      <Breakpoint file="/Users/artturobld/Projects/RestAPINetMongoDB/RestAPINetMongoDB/Controllers/MongoDBOpsController.cs" relfile="RestAPINetMongoDB/Controllers/MongoDBOpsController.cs" line="129" column="1" />
+      <Breakpoint file="/Users/artturobld/Projects/RestAPINetMongoDB/RestAPINetMongoDB/Controllers/MongoDBOpsController.cs" relfile="RestAPINetMongoDB/Controllers/MongoDBOpsController.cs" line="165" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

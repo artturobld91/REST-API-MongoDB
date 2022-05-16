@@ -11,6 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using RestAPINetMongoDB.Services;
 
 namespace RestAPINetMongoDB
 {
@@ -34,6 +35,9 @@ namespace RestAPINetMongoDB
                     }
                 );
             });
+
+            services.AddSingleton<MongoDBService>();
+
             services.AddControllers();
 
             AddSwagger(services);
